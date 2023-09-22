@@ -1,0 +1,15 @@
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\bin\Debug\net6.0\beecrowd_1172.exe
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\bin\Debug\net6.0\beecrowd_1172.deps.json
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\bin\Debug\net6.0\beecrowd_1172.runtimeconfig.json
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\bin\Debug\net6.0\beecrowd_1172.dll
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\bin\Debug\net6.0\beecrowd_1172.pdb
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.csproj.AssemblyReference.cache
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.AssemblyInfoInputs.cache
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.AssemblyInfo.cs
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.csproj.CoreCompileInputs.cache
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.dll
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\refint\beecrowd_1172.dll
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.pdb
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\beecrowd_1172.genruntimeconfig.cache
+C:\Users\RYNS\Documents\GitHub\CSharp\Beecrowd\C#\beecrowd_1172\beecrowd_1172\obj\Debug\net6.0\ref\beecrowd_1172.dll
